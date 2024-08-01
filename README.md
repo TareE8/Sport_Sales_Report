@@ -30,7 +30,7 @@ The following tasks were performed before proceeding with analysing the data to 
 
 ### Exploratory Data Analysis and Visualization
 This project contains one report page
-![](image/dashboard.png)
+![](image/Dashboard.png)
 
 ### Findings
 
