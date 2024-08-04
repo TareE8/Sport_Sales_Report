@@ -33,6 +33,23 @@ This project contains one report page
 ![](image/Dashboard.png)
 
 ### Findings
+1. The sales analysis shows that there were more male cusstomers than females across the five countries.
+2. Also,the most popular product category was accessories.
+3. The top five products by revenue were all bikes.
+4. The sub category with the highest order volume was tyres and tubes.
 
 ### Recommendations
+1. Countries such as Canada,France,Germany and United Kingdom with comparatively lower revenue,intensify their marketting efforts for bikes.
+2. Enhance the promotion of  bikes,as this could substantially elevate total revenue.
+3. Prioritize sales of accessories as seen in USA,to attract more customers and subsequently boost total revenue.
+4. Enhance popularity of items within the clothing category such as vests,caps,socks and jerseeys.
+Increasing their visibility and appeal could lead to a signifficant increase in their order volume as well.
+
+
+
+
+
+
+
+
    
